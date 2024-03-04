@@ -1,0 +1,37 @@
+#calculatorBox {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    font-size: 30px;
+    padding: 5px;
+    border-style: solid;
+    
+}
+
+#result {
+    height: 90px;
+    font-size: 30px;
+}
+
+button {
+    width: 90px;
+    height: 90px;
+    background-color: aquamarine;
+
+}
+
+.grey {
+    background-color:gray;
+}
+
+.orange {
+    background-color: orange;
+}
